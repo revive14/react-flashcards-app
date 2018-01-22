@@ -18,10 +18,6 @@ This assumes that you have Expo installed
 yarn install
 yarn start
 ```
-or
-```bash
-npm install
-npm start
-```
+
 
 
